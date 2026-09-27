@@ -8,3 +8,6 @@
 
 # Prisma Compute slim artifact
 .output/
+
+.alchemy/
+.prisma-composer/
